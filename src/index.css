@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* ChatComponent.css */
+.chat-message {
+  background: rgba(255, 255, 255, 0.7); /* Adjust the alpha (4th value) for translucency */
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin: 8px;
+}
