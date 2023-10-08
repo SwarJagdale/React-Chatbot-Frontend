@@ -1,5 +1,5 @@
 # Chatbot
-### This is a react frontend component for an ai chatbot. Backend has to be working which runs the ### chatbot code and returns the text.
+### This is a react frontend component for an ai chatbot. Backend has to be working which runs the  chatbot code and returns the text.
 
 
 # GitHub Codespaces ♥️ React
